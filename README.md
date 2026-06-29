@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://my-portfolio-2-three-mauve.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/omm-prakash-debata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://unstop.com/u/ommdeb10032"><img src="https://img.shields.io/badge/Unstop-2F2F2F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" /></a>
+  <a href="https://unstop.com/u/ommdeb10032">
+  <img src="https://img.shields.io/badge/Unstop-2F2F2F?style=for-the-badge&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
@@ -126,13 +128,11 @@ Personal portfolio with a Three.js particle scene, AI chat assistant, 3D flip pr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night" alt="Activity Graph" width="95%"/>
