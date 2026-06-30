@@ -18,15 +18,16 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** (2023 – 2027) @ Centurion University of Technology and Management
-- 💻 Building full-stack web apps and AI/ML-powered tools — from microservice architectures to real-time computer vision
-- 🤖 Currently exploring **applied AI/ML**: NLP, transformer models (BERT), and computer vision (real-time emotion detection)
-- 🌱 Leveling up in **Spring Boot, Docker, and DevOps** to ship production-style, deployable systems
-- 💼 Open to **Software Development / AI-ML Internship** opportunities
-- 📚 Solving DSA problems consistently to sharpen problem-solving fundamentals
-- 🌍 Based in India
+* 🎓 B.Tech in **Computer Science & Engineering** (2023 – 2027) @ Centurion University of Technology and Management
+* 💻 Building full-stack web applications and AI/ML-powered tools — from microservice architectures to real-time computer vision
+* 🤖 Currently exploring **Applied AI/ML**, including NLP, Transformer models (BERT), and Computer Vision
+* 🚀 Learning and implementing **DevOps** practices with **Docker, Kubernetes, GitHub Actions, CI/CD pipelines, Linux, and cloud deployment** to build scalable, production-ready applications
+* 🌱 Strengthening my backend expertise with **Spring Boot, Microservices, REST APIs, PostgreSQL, and Redis**
+* ☁️ Deploying applications using **Render, Vercel, Railway, and Docker** while improving cloud-native development skills
+* 💼 Open to **Software Development, DevOps, and AI/ML Internship** opportunities
+* 📚 Solving DSA problems consistently to strengthen problem-solving and algorithmic thinking
+* 🌍 Based in India
 
----
 
 ### 🛠️ Tech Stack
 
