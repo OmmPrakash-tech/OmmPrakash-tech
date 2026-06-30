@@ -28,6 +28,7 @@
 * 📚 Solving DSA problems consistently to strengthen problem-solving and algorithmic thinking
 * 🌍 Based in India
 
+---
 
 ### 🛠️ Tech Stack
 
