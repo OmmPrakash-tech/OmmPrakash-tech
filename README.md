@@ -19,13 +19,14 @@
 ### 🚀 About Me
 
 * 🎓 B.Tech in **Computer Science & Engineering** (2023 – 2027) @ Centurion University of Technology and Management
-* 💻 Building full-stack web applications and AI/ML-powered tools — from microservice architectures to real-time computer vision
-* 🤖 Currently exploring **Applied AI/ML**, including NLP, Transformer models (BERT), and Computer Vision
-* 🚀 Learning and implementing **DevOps** practices with **Docker, Kubernetes, GitHub Actions, CI/CD pipelines, Linux, and cloud deployment** to build scalable, production-ready applications
-* 🌱 Strengthening my backend expertise with **Spring Boot, Microservices, REST APIs, PostgreSQL, and Redis**
-* ☁️ Deploying applications using **Render, Vercel, Railway, and Docker** while improving cloud-native development skills
-* 💼 Open to **Software Development, DevOps, and AI/ML Internship** opportunities
-* 📚 Solving DSA problems consistently to strengthen problem-solving and algorithmic thinking
+* 💻 Building scalable **full-stack applications**, backend systems, and AI-powered solutions using modern development practices
+* 🤖 Exploring **Agentic AI**, **LLMs**, **RAG**, **NLP**, **Transformer models (BERT)**, and **Computer Vision** to build intelligent, autonomous applications
+* 🚀 Learning and implementing **DevOps** with **Docker, Kubernetes, GitHub Actions, CI/CD, Linux, Nginx, and cloud deployments** to deliver production-ready software
+* ⚙️ Developing robust backend services with **Spring Boot, Microservices, REST APIs, PostgreSQL, Redis, and JWT Authentication**
+* ☁️ Deploying and managing applications on **Vercel, Render, Railway**, while expanding my knowledge of **AWS** and cloud-native architectures
+* 🌱 Continuously improving my skills in **Software Engineering, System Design, Distributed Systems, and MLOps**
+* 💼 Open to **Software Development Engineer (SDE), DevOps, AI/ML, and Agentic AI Internship** opportunities
+* 📚 Consistently solving **Data Structures & Algorithms (DSA)** problems to strengthen problem-solving and coding skills
 * 🌍 Based in India
 
 ---
