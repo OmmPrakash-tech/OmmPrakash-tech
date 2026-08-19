@@ -400,7 +400,7 @@ Architecture            → System Design • Distributed Systems
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
 
 </div>
-🐍 Contribution Snake
+###  🐍 Contribution Snake
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div>
 🤝 Open to Opportunities
 
@@ -427,7 +427,7 @@ Building software. Solving problems. Learning continuously.
 </div> 
 
 
-🧊 3D Contribution Calendar
+###  🧊 3D Contribution Calendar
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
