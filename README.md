@@ -377,85 +377,177 @@ Architecture            → System Design • Distributed Systems
 
 
 
+---
 
-📊 GitHub Analytics
+<br/>
+
+## 📊 GitHub Analytics
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  width="48%"
+  alt="Omm Prakash GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="37%" alt="Top Languages" />
+&nbsp;&nbsp;
 
-</div> <br/> <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-
-</div> <br/> <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="36%"
+  alt="Most Used Languages"
+/>
 
 </div>
-🧊 3D Contribution Calendar
+
+<br/><br/>
+
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
-###  🐍 Contribution Snake
+
+<br/><br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night&hide_border=true&area=true"
+  width="96%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+## 🧊 3D Contribution Calendar
+
+<br/>
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="95%"
+  alt="3D GitHub Contribution Calendar"
+/>
+
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<br/>
+
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div>
-🤝 Open to Opportunities
-
-I'm interested in opportunities where I can contribute to real engineering problems involving:
-
-Software Engineering · Backend Development · Full-Stack Development · Java/Spring Boot · Applied AI · DevOps · Cloud
-
-<div align="center">
-📫 Let's Connect
-<a href="https://www.linkedin.com/in/omm-prakash-debata/"> <img src="https://img.shields.io/badge/LinkedIn-Omm%20Prakash%20Debata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://my-portfolio-2-three-mauve.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://unstop.com/u/ommdeb10032"> <img src="https://img.shields.io/badge/Unstop-View%20Profile-1A1A1A?style=for-the-badge" /> </a>
 
 <br/><br/>
 
-💡
+---
 
-Building software. Solving problems. Learning continuously.
+<br/>
 
-<i>Thanks for visiting my profile — feel free to explore my repositories and connect with me.</i>
+## 🤝 Open to Opportunities
+
+<br/>
+
+I'm currently interested in opportunities where I can contribute to meaningful engineering problems and continue growing as a software engineer.
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Development-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-8B5CF6?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=110&section=footer" width="100%" alt="Footer" />
-
-</div> 
-
-
-###  🧊 3D Contribution Calendar
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
+<img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
-🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div>
-🤝 Open to Opportunities
 
-I'm interested in opportunities where I can contribute to real engineering problems involving:
+<br/><br/>
 
-Software Engineering · Backend Development · Full-Stack Development · Java/Spring Boot · Applied AI · DevOps · Cloud
+---
+
+<br/>
+
+## 📫 Let's Connect
+
+<br/>
 
 <div align="center">
-📫 Let's Connect
-<a href="https://www.linkedin.com/in/omm-prakash-debata/"> <img src="https://img.shields.io/badge/LinkedIn-Omm%20Prakash%20Debata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://my-portfolio-2-three-mauve.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://unstop.com/u/ommdeb10032"> <img src="https://img.shields.io/badge/Unstop-View%20Profile-1A1A1A?style=for-the-badge" /> </a>
 
-<br/><br/>
+<p>
+If you'd like to discuss software engineering, projects, internships,
+collaboration, or opportunities, feel free to connect with me.
+</p>
 
-💡
+<br/>
 
-Building software. Solving problems. Learning continuously.
+<a href="https://www.linkedin.com/in/omm-prakash-debata/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Omm%20Prakash%20Debata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-<i>Thanks for visiting my profile — feel free to explore my repositories and connect with me.</i>
+&nbsp;
 
-<br/><br/>
+<a href="https://my-portfolio-2-three-mauve.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=110&section=footer" width="100%" alt="Footer" />
+&nbsp;
 
-</div> ```
+<a href="https://unstop.com/u/ommdeb10032">
+  <img
+    src="https://img.shields.io/badge/Unstop-View%20Profile-1A1A1A?style=for-the-badge"
+    alt="Unstop"
+  />
+</a>
 
+<br/><br/><br/>
+
+### 💡 Building software. Solving problems. Learning continuously.
+
+<br/>
+
+<i>
+Thanks for visiting my GitHub profile.<br/>
+Feel free to explore my repositories and connect with me!
+</i>
+
+<br/><br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
