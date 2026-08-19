@@ -1,154 +1,461 @@
-<h1 align="center">Hi, I'm Omm Prakash Debata 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=230&section=header&text=Omm%20Prakash%20Debata&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Applied%20AI&descAlignY=57&descSize=18"
+  width="100%"
+  alt="Header"
+/>
 
-<p align="center">
-  <a href="https://my-portfolio-2-three-mauve.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/omm-prakash-debata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://unstop.com/u/ommdeb10032">
-  <img src="https://img.shields.io/badge/Unstop-2F2F2F?style=for-the-badge&logoColor=white" />
+### 👋 Building scalable software, intelligent systems, and production-ready applications
+
+<a href="https://my-portfolio-2-three-mauve.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmmPrakash-tech&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
+<a href="https://www.linkedin.com/in/omm-prakash-debata/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="https://unstop.com/u/ommdeb10032">
+  <img src="https://img.shields.io/badge/Unstop-1C1C1C?style=for-the-badge" />
+</a>
 
-### 🚀 About Me
+<a href="https://github.com/OmmPrakash-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-* 🎓 B.Tech in **Computer Science & Engineering** (2023 – 2027) @ Centurion University of Technology and Management
-* 💻 Building scalable **full-stack applications**, backend systems, and AI-powered solutions using modern development practices
-* 🤖 Exploring **Agentic AI**, **LLMs**, **RAG**, **NLP**, **Transformer models (BERT)**, and **Computer Vision** to build intelligent, autonomous applications
-* 🚀 Learning and implementing **DevOps** with **Docker, Kubernetes, GitHub Actions, CI/CD, Linux, Nginx, and cloud deployments** to deliver production-ready software
-* ⚙️ Developing robust backend services with **Spring Boot, Microservices, REST APIs, PostgreSQL, Redis, and JWT Authentication**
-* ☁️ Deploying and managing applications on **Vercel, Render, Railway**, while expanding my knowledge of **AWS** and cloud-native architectures
-* 🌱 Continuously improving my skills in **Software Engineering, System Design, Distributed Systems, and MLOps**
-* 💼 Open to **Software Development Engineer (SDE), DevOps, AI/ML, and Agentic AI Internship** opportunities
-* 📚 Consistently solving **Data Structures & Algorithms (DSA)** problems to strengthen problem-solving and coding skills
-* 🌍 Based in India
+<br/><br/>
 
----
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;Building+production-ready+full-stack+systems;Exploring+RAG+%7C+LLMs+%7C+Agentic+AI;Learning+Cloud+%7C+DevOps+%7C+System+Design;Open+to+Software+Engineering+roles+for+2027"
+  alt="Typing SVG"
+/>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=OmmPrakash-tech&style=flat-square&color=6366F1&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+
+</div>
 
 ---
 
-### 🌟 Featured Projects
+## 👨‍💻 About Me
+
+I'm **Omm Prakash Debata**, a final-year **B.Tech Computer Science & Engineering student (2023–2027)** at Centurion University of Technology and Management.
+
+My primary focus is **software engineering and full-stack development**, with a growing interest in integrating **AI systems, cloud infrastructure, and DevOps practices** into real-world applications.
+
+- 💻 Building full-stack applications using **Java, Spring Boot, React, Angular, Node.js and FastAPI**
+- ⚙️ Developing backend systems with **REST APIs, JWT authentication, relational databases and service-oriented architectures**
+- 🤖 Exploring **LLMs, RAG pipelines, Agentic AI, LangChain, LangGraph and AI-powered application development**
+- 🧠 Learning **System Design, Microservices, Distributed Systems and scalable backend architecture**
+- 🚀 Practicing **Docker, GitHub Actions, CI/CD, Linux, Nginx and cloud deployment**
+- ☁️ Working with **AWS, Vercel, Render and modern cloud deployment platforms**
+- 📚 Consistently practicing **Data Structures & Algorithms**
+- 💼 Open to **SDE, Backend, Full-Stack, DevOps and Applied AI opportunities**
+- 📍 Based in **Bhubaneswar, Odisha, India**
+
+---
+
+## ⚡ Engineering Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" align="center">
 
-**📚 [Library Management System](https://github.com/OmmPrakash-tech/Library-Management-System)**
+### ☕ Backend
 
-Full-stack system with JWT auth, subscriptions, reservations, and Razorpay payment integration.
-
-`Spring Boot` `Angular` `MySQL` `JWT` `Razorpay`
-[🔗 Live Demo](https://library-management-system-3d9t.onrender.com)
-
-</td>
-<td width="50%">
-
-**🤖 [AI Resume Builder & Checker](https://github.com/OmmPrakash-tech/AI-Resume-Builder-and-Checker)**
-
-Distributed AI career platform — resume builder, ATS-style analysis, and live job matching across three backend services + an AI microservice.
-
-`React` `Express` `FastAPI` `Docker` `AI/ML`
+Java  
+Spring Boot  
+REST APIs  
+JWT  
+Microservices
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-**🎬 [Movie Streaming Platform](https://github.com/OmmPrakash-tech/Movie-Streaming-Platform)**
+<td width="25%" align="center">
 
-Full-stack streaming app for browsing, searching, and streaming movies with secure auth and a Netflix-style UI.
+### 🌐 Full Stack
 
-`Java` `TypeScript` `Spring Boot`
-
-</td>
-<td width="50%">
-
-**✍️ Autocorrect AI Tool**
-
-Dual-mode spell-checker combining statistical correction (TextBlob) with context-aware correction using **BERT** (`bert-base-uncased`), served via Streamlit.
-
-`Python` `BERT` `Hugging Face` `Streamlit`
+React  
+Angular  
+Next.js  
+Node.js  
+TypeScript
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-**🙂 Real-Time Emotion Detection**
+<td width="25%" align="center">
 
-Computer-vision system that detects and classifies human emotions from a live video feed in real time.
+### 🤖 Applied AI
 
-`Python` `OpenCV` `Deep Learning`
+FastAPI  
+LLMs  
+RAG  
+Transformers  
+Computer Vision
 
 </td>
-<td width="50%">
 
-**🌐 [3D Developer Portfolio](https://github.com/OmmPrakash-tech/My-Portfolio-2)**
+<td width="25%" align="center">
 
-Personal portfolio with a Three.js particle scene, AI chat assistant, 3D flip project cards, and a contact pipeline — deployed on Vercel.
+### 🚀 DevOps
 
-`Next.js 14` `Three.js` `TypeScript` `AI Chat`
-[🔗 Live Site](https://my-portfolio-2-three-mauve.vercel.app/)
+Docker  
+GitHub Actions  
+Linux  
+Nginx  
+Cloud
 
 </td>
 </tr>
 </table>
 
-> 💡 *More projects are available on my [repositories tab](https://github.com/OmmPrakash-tech?tab=repositories) — including ongoing work like a healthcare portal built with Spring Boot.*
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" />
+
+<br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind&theme=dark" />
+
+<br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
+
+<br/>
+
+### Databases & Caching
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+
+<br/>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" />
+
+<br/><br/>
+
+### DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,aws,vercel,postman&theme=dark" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight" alt="GitHub Streak" height="165"/>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 Library Management System</h3>
+
+<p>
+Production-oriented full-stack library platform with secure authentication,
+subscription management, book reservations and online payments.
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night" alt="Activity Graph" width="95%"/>
+<p>
+<b>Key Features</b><br/>
+🔐 JWT Authentication<br/>
+📚 Book & User Management<br/>
+💳 Razorpay Integration<br/>
+📅 Reservation System<br/>
+📦 Subscription Plans
 </p>
+
+<p>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>Angular</code>
+<code>MySQL</code>
+<code>JWT</code>
+</p>
+
+<a href="https://library-management-system-3d9t.onrender.com/">
+<strong>🌐 Live Demo</strong>
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://github.com/OmmPrakash-tech/Library-Management-System">
+<strong>💻 Repository</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Resume Builder & Checker</h3>
+
+<p>
+AI-powered career platform combining resume creation, ATS-style analysis
+and intelligent job matching through distributed backend services.
+</p>
+
+<p>
+<b>Key Features</b><br/>
+📄 Resume Builder<br/>
+🧠 AI Resume Analysis<br/>
+📊 ATS-style Scoring<br/>
+💼 Job Matching<br/>
+⚙️ AI Microservice Architecture
+</p>
+
+<p>
+<code>React</code>
+<code>Express.js</code>
+<code>FastAPI</code>
+<code>Python</code>
+<code>Docker</code>
+</p>
+
+<a href="https://github.com/OmmPrakash-tech/AI-Resume-Builder-and-Checker">
+<strong>💻 Repository</strong>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎬 Movie Streaming Platform</h3>
+
+<p>
+Full-stack movie streaming application with secure authentication,
+movie discovery, search and a modern Netflix-inspired user interface.
+</p>
+
+<p>
+<b>Key Features</b><br/>
+🎥 Movie Browsing<br/>
+🔎 Search System<br/>
+🔐 Secure Authentication<br/>
+📱 Responsive Interface<br/>
+⚡ Backend APIs
+</p>
+
+<p>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>TypeScript</code>
+</p>
+
+<a href="https://github.com/OmmPrakash-tech/Movie-Streaming-Platform">
+<strong>💻 Repository</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 3D Developer Portfolio</h3>
+
+<p>
+Interactive developer portfolio with a Three.js experience,
+AI assistant, animated project cards and a production contact pipeline.
+</p>
+
+<p>
+<b>Key Features</b><br/>
+🧊 Three.js Scene<br/>
+🤖 AI Chat Assistant<br/>
+🎴 Interactive Project Cards<br/>
+📨 Contact Pipeline<br/>
+🚀 Vercel Deployment
+</p>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Three.js</code>
+<code>AI</code>
+</p>
+
+<a href="https://my-portfolio-2-three-mauve.vercel.app/">
+<strong>🌐 Live Site</strong>
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://github.com/OmmPrakash-tech/My-Portfolio-2">
+<strong>💻 Repository</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 📫 Connect With Me
+## 🧠 AI & Machine Learning Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/omm-prakash-debata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://my-portfolio-2-three-mauve.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://unstop.com/u/ommdeb10032"><img src="https://img.shields.io/badge/Unstop-1A1A1A?style=for-the-badge" /></a>
-</p>
+<table>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/OmmPrakash-tech">OmmPrakash-tech</a> — Thanks for stopping by!</i></p>
+<tr>
+
+<td width="50%" valign="top">
+
+### ✍️ Context-Aware Autocorrect
+
+NLP-based spell-correction application combining statistical correction with Transformer-based contextual understanding.
+
+**Technologies**
+
+`Python` `BERT` `Hugging Face` `NLP` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🙂 Real-Time Emotion Detection
+
+Computer Vision application that detects and classifies human facial emotions from a real-time video stream.
+
+**Technologies**
+
+`Python` `OpenCV` `Deep Learning` `Computer Vision`
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+### 🔎 Explore More Projects
+
+<a href="https://github.com/OmmPrakash-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+Backend Engineering     → Java • Spring Boot • Microservices
+Applied AI              → LLMs • RAG • Agentic AI • LangGraph
+DevOps                  → Docker • CI/CD • Linux • Kubernetes
+Cloud                   → AWS • Deployment • Cloud Architecture
+Core CS                 → DSA • DBMS • OS • Networks
+Architecture            → System Design • Distributed Systems
+```
+
+
+
+
+
+📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="37%" alt="Top Languages" />
+
+</div> <br/> <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+
+</div> <br/> <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
+
+</div>
+🧊 3D Contribution Calendar
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
+
+</div>
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div>
+🤝 Open to Opportunities
+
+I'm interested in opportunities where I can contribute to real engineering problems involving:
+
+Software Engineering · Backend Development · Full-Stack Development · Java/Spring Boot · Applied AI · DevOps · Cloud
+
+<div align="center">
+📫 Let's Connect
+<a href="https://www.linkedin.com/in/omm-prakash-debata/"> <img src="https://img.shields.io/badge/LinkedIn-Omm%20Prakash%20Debata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://my-portfolio-2-three-mauve.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://unstop.com/u/ommdeb10032"> <img src="https://img.shields.io/badge/Unstop-View%20Profile-1A1A1A?style=for-the-badge" /> </a>
+
+<br/><br/>
+
+💡
+
+Building software. Solving problems. Learning continuously.
+
+<i>Thanks for visiting my profile — feel free to explore my repositories and connect with me.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=110&section=footer" width="100%" alt="Footer" />
+
+</div> 
+
+
+🧊 3D Contribution Calendar
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Calendar" />
+
+</div>
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmPrakash-tech/OmmPrakash-tech/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div>
+🤝 Open to Opportunities
+
+I'm interested in opportunities where I can contribute to real engineering problems involving:
+
+Software Engineering · Backend Development · Full-Stack Development · Java/Spring Boot · Applied AI · DevOps · Cloud
+
+<div align="center">
+📫 Let's Connect
+<a href="https://www.linkedin.com/in/omm-prakash-debata/"> <img src="https://img.shields.io/badge/LinkedIn-Omm%20Prakash%20Debata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://my-portfolio-2-three-mauve.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://unstop.com/u/ommdeb10032"> <img src="https://img.shields.io/badge/Unstop-View%20Profile-1A1A1A?style=for-the-badge" /> </a>
+
+<br/><br/>
+
+💡
+
+Building software. Solving problems. Learning continuously.
+
+<i>Thanks for visiting my profile — feel free to explore my repositories and connect with me.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=110&section=footer" width="100%" alt="Footer" />
+
+</div> ```
+
