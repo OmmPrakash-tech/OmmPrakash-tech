@@ -381,25 +381,33 @@ Architecture            → System Design • Distributed Systems
 
 <br/>
 
+
+
 ## 📊 GitHub Analytics
 
 <br/>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  width="48%"
-  alt="Omm Prakash GitHub Stats"
-/>
+<a href="https://github.com/OmmPrakash-tech">
+  <img
+    height="180"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=OmmPrakash-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Omm Prakash GitHub Stats"
+  />
+</a>
 
 &nbsp;&nbsp;
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  width="36%"
-  alt="Most Used Languages"
-/>
+<a href="https://github.com/OmmPrakash-tech">
+  <img
+    height="180"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmmPrakash-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5"
+    alt="Most Used Languages"
+  />
+</a>
 
 </div>
 
@@ -409,8 +417,8 @@ Architecture            → System Design • Distributed Systems
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakash-tech&theme=tokyonight&hide_border=true"
-  width="70%"
-  alt="GitHub Contribution Streak"
+  width="65%"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -421,7 +429,7 @@ Architecture            → System Design • Distributed Systems
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night&hide_border=true&area=true"
-  width="96%"
+  width="95%"
   alt="GitHub Activity Graph"
 />
 
