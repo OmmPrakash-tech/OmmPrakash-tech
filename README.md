@@ -469,6 +469,16 @@ Architecture            → System Design • Distributed Systems
 
 <br/><br/>
 
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmPrakash-tech&theme=github_dark"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
 ---
 
 <br/>
@@ -557,5 +567,10 @@ Feel free to explore my repositories and connect with me!
   width="100%"
   alt="Footer"
 />
+
+
+<div align="center">
+  
+</div>
 
 </div>
