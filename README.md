@@ -428,7 +428,7 @@ Architecture            → System Design • Distributed Systems
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-tech&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmPrakash-tech&theme=github_dark"
   width="95%"
   alt="GitHub Activity Graph"
 />
@@ -469,13 +469,7 @@ Architecture            → System Design • Distributed Systems
 
 <br/><br/>
 
-<div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmPrakash-tech&theme=github_dark"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
 
 </div>
 
